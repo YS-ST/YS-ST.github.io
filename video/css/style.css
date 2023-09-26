@@ -11,7 +11,7 @@ justify-content: center;
 align-items: center;
 }
 h1{
-font-size: 300px;
+font-size: 16vw;
 background: url(../img/header.gif)no-repeat center center/cover;
 background-clip: text;
 -webkit-background-clip: text;
